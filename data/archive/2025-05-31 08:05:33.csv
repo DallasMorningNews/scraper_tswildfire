@@ -1,0 +1,2 @@
+id,name,altitude,color,statusname,statusid,statustimestamp,firsttimestatus,lastupdated,size,sizeunit,containment,containmentunit,admindivision,admindivisiontype,admindivisionupper,admindivisionuppertype,protectingunit,publicvisibility,number,categoryType,lat,lng
+BDC27D29-7C55-46D7-B987-D551C6F0F15F,Morris 2727,126.8283,#93735D,Contained,408E3A31-82B6-4C0D-9697-64F86B525A8F,2025-05-21T16:08:00.000Z,2025-05-21T02:44:00.000Z,2025-05-21T16:19:34.040Z,2,Acres,100,Percent,Morris,COUNTY,3A,REGION,TXTXS - Texas A & M Forest Service,Visible,252727,Wildfire,33.19992,-94.78897
